@@ -6,6 +6,7 @@
   "repository": "https://github.com/Yummy-sk/timezone.js.git",
   "author": "Yeum Sang Kwon <kunshup2000@gmail.com>",
   "license": "MIT",
+  "type": "module",
   "dependencies": {
     "dayjs": "^1.11.2"
   }
