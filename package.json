@@ -1,5 +1,5 @@
 {
-  "name": "@ysk/timezone.js",
+  "name": "@ysk/timezone",
   "version": "1.0.0",
   "description": "handle timezone easily",
   "main": "index.js",
