@@ -4,7 +4,7 @@
   "description": "handle timezone easily",
   "main": "index.js",
   "repository": "https://github.com/Yummy-sk/timezone.js.git",
-  "author": "Yeum Sang Kwon <kunshup2000@gmail.com>",
+  "author": "yeummy-sk <kunshup2000@gmail.com>",
   "license": "MIT",
   "type": "module",
   "private": false,
