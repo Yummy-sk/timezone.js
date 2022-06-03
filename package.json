@@ -7,7 +7,12 @@
   "author": "Yeum Sang Kwon <kunshup2000@gmail.com>",
   "license": "MIT",
   "type": "module",
+  "private": false,
   "dependencies": {
     "dayjs": "^1.11.2"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
